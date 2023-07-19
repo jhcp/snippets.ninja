@@ -12,7 +12,7 @@
   },
   "engines": {
     "node": "18.x"
-  }
+  },
   "dependencies": {
     "@codemirror/commands": "^6.1.2",
     "@codemirror/lang-cpp": "^6.0.2",
